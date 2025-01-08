@@ -1,0 +1,7 @@
+.SearchInput__textInput {
+  flex: 1;
+}
+
+.SearchInput__select {
+  flex: 0.33;
+}

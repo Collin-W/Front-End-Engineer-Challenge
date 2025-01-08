@@ -1,0 +1,10 @@
+/* Library class override */
+.Infinite {
+  height: 600px;
+}
+
+.RepoTable__link {
+  color: #1a73e8;
+  text-decoration: none;
+  font-weight: bold;
+}
